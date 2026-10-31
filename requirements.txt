@@ -1,0 +1,10 @@
+torch
+diffusers==0.37.1
+transformers>=4.41,<5
+accelerate
+safetensors
+numpy
+pillow
+scipy
+torch-fidelity
+git+https://github.com/openai/CLIP.git
