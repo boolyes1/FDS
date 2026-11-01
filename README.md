@@ -1,5 +1,7 @@
 # FDS - Fast-Driver Sampler
 
+[**Paper (PDF)**](assets/FDS_paper.pdf) · [**Download PDF**](https://github.com/boolyes1/FDS/raw/refs/heads/main/assets/FDS_paper.pdf)
+
 Official implementation of **A Favorable Regime Between ODE and SDE for Few-Step Diffusion Sampling** (NeurIPS 2026).
 
 **Yihao Bu, Dan Lian, and Zhenguo Gao**  
